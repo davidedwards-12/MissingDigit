@@ -105,7 +105,7 @@ namespace MissingDigit
         }
 
         /// <summary>
-        /// 
+        /// Gets the example equations from the array and then writes out the equation and what the missing digit is.
         /// </summary>
         static void Main()
         {
